@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext", "DOM"],
+    "sourceMap": true,
+    "downlevelIteration": true
+  }
+}
